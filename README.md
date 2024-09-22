@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @luo-cheng-xi
 - 🌱 I’m currently learning OpenTelementry and Android development.
 - 📫 How to reach me: chengxi.luo2004@gmail.com.
+- 🐤 $1 for 1LB🍗,god bless America.
 - 🥲 Live in Bayside,NY, wish to be hired.
 
 ![0ef9f96d450064f907128b757a324419](https://github.com/user-attachments/assets/879da2a3-cc42-4b84-8069-7dd5680c82bb)
