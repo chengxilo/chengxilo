@@ -4,9 +4,9 @@
 - 🐤 $1 for 1LB🍗,god bless America.
 - 🥲 Live in Bayside,NY, wish to be hired.
 
-![0ef9f96d450064f907128b757a324419](https://github.com/user-attachments/assets/879da2a3-cc42-4b84-8069-7dd5680c82bb)
+[![chengxilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengxilo&theme=radical)](https://github.com/chengxilo/github-readme-stats)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=chengxilo&theme=onedark)](https://github.com/chengxilo/github-profile-trophy)
 <!---
 luo-cheng-xi/luo-cheng-xi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
