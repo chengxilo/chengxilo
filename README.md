@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @luo-cheng-xi
-- 🌱 I’m currently learning OpenTelementry and Android development.
+- 🌱 I’m currently learning scrapy and React.
 - 📫 How to reach me: chengxi.luo2004@gmail.com.
-- 🐤 $1 for 1LB🍗,god bless America.
 - 🥲 Live in Bayside,NY, wish to be hired.
 
 [![chengxilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengxilo&theme=radical)](https://github.com/chengxilo/github-readme-stats)
