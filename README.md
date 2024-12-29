@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luo-cheng-xi
+- 👋 Hi, I’m @chengxilo
 - 🌱 I’m currently learning scrapy and React.
 - 📫 How to reach me: chengxi.luo2004@gmail.com.
 - 🥲 Live in Bayside,NY, wish to be hired.
