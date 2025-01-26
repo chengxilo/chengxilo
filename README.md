@@ -2,7 +2,7 @@
 
 
 
-## 🍔 About me
+## ✨ About me
 
   <img src="asset/mouse.jpg" alt="Example Image" style="width: 100px; margin-left: 10px; margin-bottom: 3px" align="right"/>
 
