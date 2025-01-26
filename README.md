@@ -1,5 +1,7 @@
 # 👋 Hi, I’m @chengxilo 🥰
 
+
+
 ## 🍔 About me
 
   <img src="asset/mouse.jpg" alt="Example Image" style="width: 100px; margin-left: 10px; margin-bottom: 3px" align="right"/>
@@ -28,33 +30,42 @@ actually I always buy high and sell low. 😂 And I am a big bag holder for Cels
 
 ### 🔧 Programming Languages
 
-<img class="icon" src="asset/gopher.svg" alt="golang"/>
-<img class="icon" src="asset/python.svg" alt="python"/>
-<img class="icon" src="asset/javascript.svg" alt="javascript"/>
-<img class="icon" src="asset/typescript.svg" alt="typescript"/>
-<img class="icon" src="asset/c-plusplus.svg" alt="cpp"/>
-<img class="icon" src="asset/java.svg" alt="java"/>
+<div display="flex:1;direction:row">
+<img style="height: 24px;padding-right: 5px;" class="icon" src="asset/gopher.svg" alt="golang"/>
+<img style="height: 24px;padding-right: 5px;" src="asset/python.svg" alt="python"/>
+<img style="height: 24px;padding-right: 5px;" src="asset/javascript.svg" alt="javascript"/>
+<img style="height: 24px;padding-right: 5px;" src="asset/typescript.svg" alt="typescript"/>
+<img style="height: 24px;padding-right: 5px;" src="asset/c-plusplus.svg" alt="cpp"/>
+<img style="height: 24px;padding-right: 5px;" src="asset/java.svg" alt="java"/>
+</div>
+
 
 ### 🌐 Frontend Development
 
-<img class="icon" src="asset/nextjs-icon.svg" alt="nextjs"/>
-<img class="icon" src="asset/react.svg" alt="react"/>
-<img class="icon" src="asset/vue.svg" alt="vue"/>
-<img class="icon" src="asset/adobe-photoshop.svg" alt="photoshop"/>
+<div display="flex:1;direction:row">
+<img style="height: 24px;padding-right: 5px;" src="asset/nextjs-icon.svg" alt="nextjs"/>
+<img style="height: 24px;padding-right: 5px;" src="asset/react.svg" alt="react"/>
+<img style="height: 24px;padding-right: 5px;" src="asset/vue.svg" alt="vue"/>
+<img style="height: 24px;padding-right: 5px;" src="asset/adobe-photoshop.svg" alt="photoshop"/>
+</div>
 
 ### 🛠️ Backend Development
 
-<img class="icon" src="asset/grpc.svg" alt="grpc"/>
-<img class="icon" src="asset/mysql-icon.svg" alt="nodejs"/>
-<img class="icon" src="asset/spring-icon.svg" alt="spring"/>
-<img class="icon" src="asset/kubernetes.svg" alt="kubernetes">
-<img class="icon" src="asset/docker-icon.svg" alt="docker">
+<div display="flex:1;direction:row">
+<img style="height: 24px;padding-right: 5px;" src="asset/grpc.svg" alt="grpc"/>
+<img style="height: 24px;padding-right: 5px;" src="asset/mysql-icon.svg" alt="nodejs"/>
+<img style="height: 24px;padding-right: 5px;" src="asset/spring-icon.svg" alt="spring"/>
+<img style="height: 24px;padding-right: 5px;" src="asset/kubernetes.svg" alt="kubernetes">
+<img style="height: 24px;padding-right: 5px;" src="asset/docker-icon.svg" alt="docker">
+</div>
 
 ### 📊 Data Analysis
 
-<img class="icon" src="asset/pandas-icon.svg" alt="pandas"/>
-<img class="icon" src="asset/selenium.svg" alt="selenium"/>
-<img class="icon" src="https://scrapy.org/img/scrapylogo.png" alt="scrapy"/>
+<div display="flex:1;direction:row">
+<img style="height: 24px;padding-right: 5px;" src="asset/pandas-icon.svg" alt="pandas"/>
+<img style="height: 24px;padding-right: 5px;" src="asset/selenium.svg" alt="selenium"/>
+<img style="height: 24px;padding-right: 5px;" src="https://scrapy.org/img/scrapylogo.png" alt="scrapy"/>
+</div>
 
 ## 📫 How to reach me
 
@@ -65,9 +76,3 @@ actually I always buy high and sell low. 😂 And I am a big bag holder for Cels
 - Chinese Mandarin (Native)
 - English
 
-<style>
-  .icon {
-    height: 24px;
-    padding-right: 5px;
-  }
-</style>
