@@ -16,11 +16,6 @@ Science Technology for 2 years and transfer to the U.S. Currently, I am learning
 Feel free to contact me if you have anything to share with me.
 </p>
 
-<p>
-Also I am stock investor, I am interested in the stock market, and I am learning how to analyze the stock market. Though
-actually I always buy high and sell low. 😂 And I am a big bag holder for Celsius.
-</p>
-
 
 
 
