@@ -42,6 +42,7 @@ Feel free to contact me if you have anything to share with me.
 <img style="height: 24px;padding-right: 5px;" src="asset/react.svg" alt="react"/>
 <img style="height: 24px;padding-right: 5px;" src="asset/vue.svg" alt="vue"/>
 <img style="height: 24px;padding-right: 5px;" src="asset/adobe-photoshop.svg" alt="photoshop"/>
+<img style="height: 24px;padding-right: 5px;" src="https://wxt.dev/logo.svg" alt="photoshop"/>
 </div>
 
 ### 🛠️ Backend Development
