@@ -16,6 +16,11 @@ Science Technology for 2 years and transfer to the U.S. Currently, I am learning
 Feel free to contact me if you have anything to share with me.
 </p>
 
+<p>
+You can also contact me if you think I can develop anything for you. I am a cheap and poor labor.
+</p>
+
+😭
 
 
 
