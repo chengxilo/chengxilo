@@ -22,6 +22,8 @@ You can also contact me if you think I can develop anything for you. I am a chea
 
 😭
 
+currently working on a TUI project.
+
 
 
 ## 💻 Technologies & Experiences
