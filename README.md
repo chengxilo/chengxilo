@@ -15,6 +15,10 @@ I learnt software engineering in Changsha University &
 Science Technology for 2 years and transfer to the U.S. Currently, I am learning computer science in the New York City. 
 </p>
 
+<p>
+In a long distance relationship which is about to be destroyed.
+</p>
+
 
 
 ## 💻 Technologies & Experiences
