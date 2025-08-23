@@ -62,7 +62,6 @@ In a long distance relationship which is about to be destroyed.
 <div display="flex:1;direction:row">
 <img style="height: 24px;padding-right: 5px;" src="asset/pandas-icon.svg" alt="pandas"/>
 <img style="height: 24px;padding-right: 5px;" src="asset/selenium.svg" alt="selenium"/>
-<img style="height: 24px;padding-right: 5px;" src="https://scrapy.org/img/scrapylogo.png" alt="scrapy"/>
 </div>
 
 ## 📫 How to reach me
