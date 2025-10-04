@@ -16,7 +16,7 @@ Science Technology for 2 years and transfer to the U.S. Currently, I am learning
 </p>
 
 <p>
-In a long distance relationship which is about to be destroyed.
+Single.
 </p>
 
 
