@@ -64,6 +64,8 @@ Single.
 <img style="height: 24px;padding-right: 5px;" src="asset/selenium.svg" alt="selenium"/>
 </div>
 
+### 🔐 Cyber Security
+
 ## 📫 How to reach me
 
 - Email: chengxi.luo2004@gmail.com
@@ -71,5 +73,6 @@ Single.
 ### 🗣️ Languages I use
 
 - Chinese Mandarin (Native)
-- English
+- English (Fluent)
+- Japanese (Elementary)
 
