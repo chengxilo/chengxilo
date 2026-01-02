@@ -22,9 +22,6 @@ Single.
 
 
 ## 💻 Technologies & Experiences
-
-<img src="https://github-readme-stats.vercel.app/api?username=chengxilo&theme=radical" alt="chengxilo's github stats"/>
-
 ### 🔧 Programming Languages
 
 <div display="flex:1;direction:row">
