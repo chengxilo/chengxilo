@@ -7,7 +7,7 @@
   <img src="asset/mouse.jpg" alt="Example Image" style="width: 100px; margin-left: 10px; margin-bottom: 3px" align="right"/>
 
 <p>
-I am an undergraduate student major in Computer Science. I enjoy learning new technologies and building projects.
+My name is Chengxi Luo. I am an undergraduate student major in Computer Science. I enjoy learning new technologies and building projects.
 </p>
 
 <p>
