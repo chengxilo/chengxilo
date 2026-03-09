@@ -1,23 +1,11 @@
 # 👋 Hi, I’m @chengxilo 🥰
 
 
-
-## ✨ About me
-
-  <img src="asset/mouse.jpg" alt="Example Image" style="width: 100px; margin-left: 10px; margin-bottom: 3px" align="right"/>
-
-<p>
-My name is Chengxi Luo. I am an undergraduate student major in Computer Science. I enjoy learning new technologies and building projects.
-</p>
-
-<p>
-I learnt software engineering in Changsha University &
-Science Technology for 2 years and transfer to the U.S. Currently, I am learning computer science in the New York City. 
-</p>
-
-
-
 ## 💻 Technologies & Experiences
+
+
+  <img src="asset/mouse.jpg" alt="Example Image" style="width: 200px; margin-left: 10px; margin-bottom: 3px" align="right"/>
+
 ### 🔧 Programming Languages
 
 <div display="flex:1;direction:row">
@@ -65,7 +53,7 @@ Science Technology for 2 years and transfer to the U.S. Currently, I am learning
 
 ### 🗣️ Languages I use
 
-- Chinese Mandarin (Native)
+- Chinese Mandarin/简体中文 (Native)
 - English (Fluent)
-- Japanese (Elementary)
+- Japanese/日本語 (Elementary)
 
