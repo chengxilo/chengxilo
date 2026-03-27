@@ -6,18 +6,18 @@
 </a>
 </h1>
 
-<h2>
-I’m Chengxi Luo 罗成熙
-
-  
-</h2>
+<div align="center" margin="30px">
+  <img src="asset/mouse.jpg" alt="Example Image" style="width: 200px; margin-left: 10px; margin-bottom: 3px"/>
+  <h2>I’m Chengxi Luo</h2>
+  <div>
+    A programmer(perhaps)
+  </div>
+  <br>
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chengxilo&theme=react-dark)](https://github.com/chengxilo/chengxilo)
 
 ## 💻 Technologies & Experiences
-
-
-  <img src="asset/mouse.jpg" alt="Example Image" style="width: 200px; margin-left: 10px; margin-bottom: 3px" align="right"/>
 
 ### 🔧 Programming Languages
 
