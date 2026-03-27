@@ -8,13 +8,10 @@
   <p>Full-stack Developer · Opensource Contributor</p>
 </div>
 
----
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=chengxilo&theme=react&hide_border=true" />
 </div>
-
----
 
 <h2 align="center"> 🛠️ Tech Stack </h2>
 
