@@ -1,4 +1,13 @@
-# 👋 Hi, I’m @chengxilo 🥰
+<h1 align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&repeat=false&width=500&height=60&lines=Greetings%2C+traveler+from+beyond+the+fog." alt="Typing SVG" />
+</a>
+</h1>
+
+<h2>
+I’m @chengxilo 🥰
+</h2>
+
 
 
 ## 💻 Technologies & Experiences
