@@ -1,73 +1,65 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=66D3FA" />
 
-<h1 align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&repeat=false&width=500&height=50&lines=Greetings%2C+traveler+from+beyond+the+fog." alt="Typing SVG" />
-</a>
-</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&repeat=false&width=500&height=50&lines=Greetings%2C+traveler+from+beyond+the+fog." alt="Typing SVG" />
+  </a>
 
-<div align="center" margin="30px">
-  <img src="asset/mouse.jpg" alt="Example Image" style="width: 200px; margin-left: 10px; margin-bottom: 3px"/>
-  <h2>I’m Chengxi Luo</h2>
-  <div>
-    A programmer(perhaps)
-  </div>
-  <br>
+  <br/>
+
+  <img src="asset/mouse.jpg" alt="avatar" width="160" style="border-radius: 50%"/>
+
+<h2>Chengxi Luo</h2>
+
+  <p>Full-stack Developer · Opensource Contributor</p>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chengxilo&theme=react-dark)](https://github.com/chengxilo/chengxilo)
+<br/>
 
-## 💻 Technologies & Experiences
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=chengxilo&theme=react&hide_border=true" />
+</div>
 
-### 🔧 Programming Languages
+<h2 align="center"> 🛠️ Tech Stack 🛠️ </h2>
 
-<div display="flex:1;direction:row">
-<img style="height: 24px;padding-right: 5px;" class="icon" src="asset/gopher.svg" alt="golang"/>
-<img style="height: 24px;padding-right: 5px;" src="asset/python.svg" alt="python"/>
-<img style="height: 24px;padding-right: 5px;" src="asset/javascript.svg" alt="javascript"/>
-<img style="height: 24px;padding-right: 5px;" src="asset/typescript.svg" alt="typescript"/>
-<img style="height: 24px;padding-right: 5px;" src="asset/c-plusplus.svg" alt="cpp"/>
-<img style="height: 24px;padding-right: 5px;" src="asset/java.svg" alt="java"/>
+<div align="center">
+
+**Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=go,python,ts,js,cpp,java)](https://skillicons.dev)
+
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,materialui)](https://skillicons.dev)
+
+**Backend & DevOps**
+
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,mysql,spring,git)](https://skillicons.dev)
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chengxilo&theme=react&hide_border=true" />
+
+<div align="center">
+
+<h2> 🌐 Languages 🌐 </h2>
+
+<div style="display:flex; flex-direction:row; justify-content:space-between; align-items:center; width:320px; margin:0 auto;">
+<div>Chinese Mandarin 简体中文</div>
+<img src="https://img.shields.io/badge/Native-2ea44f?style=flat-square"/>
+</div>
+<div style="display:flex; flex-direction:row; justify-content:space-between; align-items:center; width:320px; margin:0 auto;">
+<div>English</div>
+<img src="https://img.shields.io/badge/Fluent-0075ca?style=flat-square"/>
+</div>
+<div style="display:flex; flex-direction:row; justify-content:space-between; align-items:center; width:320px; margin:0 auto;">
+<div>Japanese 日本語</div>
+<img src="https://img.shields.io/badge/Elementary-e4a400?style=flat-square"/>
+</div>
+
 </div>
 
 
-### 🌐 Frontend Development
-
-<div display="flex:1;direction:row">
-<img style="height: 24px;padding-right: 5px;" src="asset/nextjs-icon.svg" alt="nextjs"/>
-<img style="height: 24px;padding-right: 5px;" src="asset/react.svg" alt="react"/>
-<img style="height: 24px;padding-right: 5px;" src="asset/vue.svg" alt="vue"/>
-<img style="height: 24px;padding-right: 5px;" src="asset/adobe-photoshop.svg" alt="photoshop"/>
-<img style="height: 24px;padding-right: 5px;" src="https://wxt.dev/logo.svg" alt="photoshop"/>
-</div>
-
-### 🛠️ Backend Development
-
-<div display="flex:1;direction:row">
-<img style="height: 24px;padding-right: 5px;" src="asset/grpc.svg" alt="grpc"/>
-<img style="height: 24px;padding-right: 5px;" src="asset/mysql-icon.svg" alt="nodejs"/>
-<img style="height: 24px;padding-right: 5px;" src="asset/spring-icon.svg" alt="spring"/>
-<img style="height: 24px;padding-right: 5px;" src="asset/kubernetes.svg" alt="kubernetes">
-<img style="height: 24px;padding-right: 5px;" src="asset/docker-icon.svg" alt="docker">
-</div>
-
-### 📊 Data Analysis
-
-<div display="flex:1;direction:row">
-<img style="height: 24px;padding-right: 5px;" src="asset/pandas-icon.svg" alt="pandas"/>
-<img style="height: 24px;padding-right: 5px;" src="asset/selenium.svg" alt="selenium"/>
-</div>
-
-### 🔐 Cyber Security
-
-## 📫 How to reach me
-
-- Email: chengxi.luo2004@gmail.com
-
-### 🗣️ Languages I use
-
-- Chinese Mandarin/简体中文 (Native)
-- English (Fluent)
-- Japanese/日本語 (Elementary)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=66D3FA&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=66D3FA&section=footer"  alt=""/>
