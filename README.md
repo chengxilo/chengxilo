@@ -49,17 +49,12 @@
 
 <h2 align="center"> 🌐 Languages 🌐 </h2>
 
-<div style="display:flex; flex-direction:row; justify-content:space-between; align-items:center; width:320px; margin:4px auto;">
-<div>Chinese Mandarin 简体中文</div>
-<img src="https://img.shields.io/badge/Native-2ea44f?style=flat-square"/>
-</div>
-<div style="display:flex; flex-direction:row; justify-content:space-between; align-items:center; width:320px; margin:4px auto;">
-<div>English</div>
-<img src="https://img.shields.io/badge/Fluent-0075ca?style=flat-square"/>
-</div>
-<div style="display:flex; flex-direction:row; justify-content:space-between; align-items:center; width:320px; margin:4px auto;">
-<div>Japanese 日本語</div>
-<img src="https://img.shields.io/badge/Elementary-e4a400?style=flat-square"/>
+<div align="center">
+
+Chinese Mandarin  简体中文  ![Native](https://img.shields.io/badge/Native-2ea44f?style=flat-square) \
+English ![Fluent](https://img.shields.io/badge/Fluent-0075ca?style=flat-square) \
+Japanese  日本語  ![Elementary](https://img.shields.io/badge/Elementary-e4a400?style=flat-square)
+
 </div>
 
 
