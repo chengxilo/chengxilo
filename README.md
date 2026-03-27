@@ -7,7 +7,7 @@
 
   <br/>
 
-  <img src="asset/mouse.jpg" alt="avatar" width="160" style="border-radius: 50%"/>
+  <img src="asset/mouse-round.png" alt="avatar" width="160"/>
 
 <h2>Chengxi Luo</h2>
 
