@@ -7,11 +7,12 @@
 </h1>
 
 <h2>
-I’m Chengxi Luo(罗成熙)
+I’m Chengxi Luo 罗成熙
+
+  
 </h2>
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chengxilo&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chengxilo&theme=react-dark)](https://github.com/chengxilo/chengxilo)
 
 ## 💻 Technologies & Experiences
 
