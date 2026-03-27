@@ -36,18 +36,6 @@
 
 ---
 
-<h2 align="center"> 🌐 Languages </h2>
-
-<div align="center">
-
-Chinese Mandarin 简体中文 &nbsp; ![Native](https://img.shields.io/badge/Native-2ea44f?style=flat-square) <br/>
-English &nbsp; ![Fluent](https://img.shields.io/badge/Fluent-0075ca?style=flat-square) <br/>
-Japanese 日本語 &nbsp; ![Elementary](https://img.shields.io/badge/Elementary-e4a400?style=flat-square)
-
-</div>
-
----
-
 <h2 align="center"> 🎓 Education </h2>
 
 <div align="center">
@@ -59,6 +47,18 @@ GPA 3.87 · Dean's List · `2025 – Present`
 Transferred to Baruch College · `2022 – 2024`
 
 Will transfer to a lovely SUNY school next semester :)
+
+</div>
+
+---
+
+<h2 align="center"> 🌐 Languages </h2>
+
+<div align="center">
+
+Chinese Mandarin 简体中文 &nbsp; ![Native](https://img.shields.io/badge/Native-2ea44f?style=flat-square) <br/>
+English &nbsp; ![Fluent](https://img.shields.io/badge/Fluent-0075ca?style=flat-square) <br/>
+Japanese 日本語 &nbsp; ![Elementary](https://img.shields.io/badge/Elementary-e4a400?style=flat-square)
 
 </div>
 
