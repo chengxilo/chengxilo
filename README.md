@@ -1,14 +1,17 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=66D3FA" />
+
 <h1 align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&repeat=false&width=500&height=60&lines=Greetings%2C+traveler+from+beyond+the+fog." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&repeat=false&width=500&height=50&lines=Greetings%2C+traveler+from+beyond+the+fog." alt="Typing SVG" />
 </a>
 </h1>
 
 <h2>
-I’m @chengxilo 🥰
+I’m Chengxi Luo(罗成熙)
 </h2>
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chengxilo&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 💻 Technologies & Experiences
 
@@ -66,3 +69,4 @@ I’m @chengxilo 🥰
 - English (Fluent)
 - Japanese/日本語 (Elementary)
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=66D3FA&section=footer" />
