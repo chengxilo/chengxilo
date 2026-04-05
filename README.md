@@ -5,9 +5,9 @@
   <br/>
   <img src="asset/mouse-round.png" alt="avatar" width="160"/>
   <h2>Chengxi Luo</h2>
+  
   <p>Full-stack Developer · Opensource Contributor</p>
 </div>
-
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=chengxilo&theme=react&hide_border=true" />
@@ -59,8 +59,11 @@ Japanese 日本語 &nbsp; ![Elementary](https://img.shields.io/badge/Elementary-
 
 </div>
 
-<div align="center">
+---
+
+
+  <div align="center">
     <img src="assets/countdown.svg" alt="Countdown" width="400"/>
-</div>
+  </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=66D3FA&section=footer" alt=""/>
