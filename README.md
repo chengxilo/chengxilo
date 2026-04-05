@@ -62,4 +62,8 @@ Japanese 日本語 &nbsp; ![Elementary](https://img.shields.io/badge/Elementary-
 
 </div>
 
+<div align="center">
+    <img src="assets/countdown.svg" alt="Countdown" width="400"/>
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=66D3FA&section=footer" alt=""/>
