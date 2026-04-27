@@ -37,13 +37,14 @@
 
 <div align="center">
 
-**Baruch College / CUNY** — Computer Science <br/>
-GPA 3.87 · Dean's List · `2025 – Present`
+**University at Buffalo** - Computer Science <br/>
+GPA N/A · `2026 - Present`
 
-**Changsha University of Science & Technology** — Software Engineering <br/>
+**Baruch College / CUNY** — Computer Science (Transfered) <br/>
+GPA 3.87 · Dean's List · `2025 – 2026`
+
+**Changsha University of Science & Technology** — Software Engineering (Transfered) <br/>
 Transferred to Baruch College · `2022 – 2024`
-
-Will transfer to a lovely SUNY school next semester :)
 
 </div>
 
