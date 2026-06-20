@@ -33,23 +33,6 @@
 
 ---
 
-<h2 align="center"> 🎓 Education </h2>
-
-<div align="center">
-
-**University at Buffalo** - Computer Science <br/>
-GPA N/A · `2026 - Present`
-
-**Baruch College / CUNY** — Computer Science <br/>
-Transfered to University at Buffalo · GPA 3.91 · Dean's List · `2025 – 2026`
-
-**Changsha University of Science & Technology** — Software Engineering <br/>
-Transferred to Baruch College · `2022 – 2024`
-
-</div>
-
----
-
 <h2 align="center"> 🌐 Languages </h2>
 
 <div align="center">
