@@ -20,7 +20,7 @@ jobs:
       - uses: chengxilo/countdown@main
         with:
           date: '2084-10-17'
-          label: "Days To Live"
+          label: "Days To Struggle"
           theme: 'react-dark'
           output_path: 'assets/countdown.svg'
 
