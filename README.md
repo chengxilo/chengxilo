@@ -1,9 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=66D3FA" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&repeat=false&width=500&height=50&lines=Greetings%2C+traveler+from+beyond+the+fog." alt="Typing SVG" />
-  <br/>
-  <img src="asset/mouse-round.png" alt="avatar" width="160"/>
   <h2>Chengxi Luo</h2>
   
   <p>Full-stack Developer · Opensource Contributor</p>
