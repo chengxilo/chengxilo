@@ -2,8 +2,6 @@
 
 # Hi, I'm Chengxi Luo 👋
 
-**Full-Stack Developer · OSS Contributor**
-
-Feel free to reach out :)
+Currently learning quantum computing
 
 </div>
