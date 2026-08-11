@@ -1,3 +1,3 @@
-# Hi, I'm Chengxi Luo 👋
+### Hi, I'm Chengxi Luo 👋
 
 Currently learning quantum computing
